@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>investigacion on Girasoles Laureados</title>
+    <link>http://example.org/tags/investigacion/</link>
+    <description>Recent content in investigacion on Girasoles Laureados</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-lat</language>
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/investigacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education without theory</title>
+      <link>http://example.org/posts/investigacion/education-without-theory/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/investigacion/education-without-theory/</guid>
+      <description>The debate that has absorved great deal of intellectual energy is about what is educational theory, what is it for and what it tries to achieve.
+Up to the end of the 19th century educational did not exist despite the canonical texts as Plato&amp;rsquo;s Republic and Rousseau&amp;rsquo;s Emile.
+Social progress depended on making our practices and institutions less dependent on custom, habit, dogma and tradition and more firmly based on knowledge that met universal standars of objetivity, this knowledge is called theory.</description>
+    </item>
+    
+    <item>
+      <title>Francisco Cajiao</title>
+      <link>http://example.org/posts/investigacion/francisco-cajiao/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/investigacion/francisco-cajiao/</guid>
+      <description>Francisco Cajiao - Licenciado de filosofia de la universidad Javeriana
+Su primera experiencia educativa en su carrera fue dictar clases de catecismo como parte de su formacion para llegar a ser santo a eso de 1965.
+Su vida escolar no evocaba buenos recuerdos por lo que sus aspiraciones nunca fueron adentrarse en la educacion principalmente porque no se sentia comodo
+En su experiencia educativa con los niños los buenos momentos empezaron a despertar ciertas inquietudes lo que lo llevo a tomar la desicion de pedir que a inicios de su carrera le permitieran dictar clases en el colegio Carlos Arturo Torres de Santa Rosa.</description>
+    </item>
+    
+  </channel>
+</rss>

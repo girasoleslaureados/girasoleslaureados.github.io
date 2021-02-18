@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>materia on Girasoles Laureados</title>
+    <link>http://example.org/tags/materia/</link>
+    <description>Recent content in materia on Girasoles Laureados</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-lat</language>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/materia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigación en la educación</title>
+      <link>http://example.org/posts/investigacion/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/investigacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vida cotidiana</title>
+      <link>http://example.org/posts/vidacotidiana/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vidacotidiana/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

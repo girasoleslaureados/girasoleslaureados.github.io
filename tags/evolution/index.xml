@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evolution on Girasoles Laureados</title>
+    <link>http://example.org/tags/evolution/</link>
+    <description>Recent content in evolution on Girasoles Laureados</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-lat</language>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una historia social de la comida</title>
+      <link>http://example.org/posts/vidacotidiana/historia-social-de-la-comida/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vidacotidiana/historia-social-de-la-comida/</guid>
+      <description>Capitulo 1. La alimentación en el proceso mismo de hacernos humanos   Alcanzamos un 98.5% de semenjanza geética con los monos dejando solo un 1.5% de variación con respecto a un ancestro común y solo eso basta para generar enormes efectos
+  El antropomorfo fue el ultimo ancestro comun
+  La separacion genetica se denomina divergencia
+  Un consenso de como se realizo la divergencia es la traslocacion genetica ( cuando un segmento de un cromosoma se transfiere a otro)</description>
+    </item>
+    
+    <item>
+      <title>Evolution lectures</title>
+      <link>http://example.org/posts/vidacotidiana/evolution-lectures/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vidacotidiana/evolution-lectures/</guid>
+      <description>11. Evolution as Fact and Theory   What is the popular definition of theory? In the american vernacular theoyr is an &amp;ldquo;imperfect fact&amp;rdquo;  What is the scientific definition?
+Theory is a structure of ideas that explain and interpret facts. Facts do not go away while scientist debate rival theories for explainning them. (Eisntein and Newton example)
+What does Gould mean when he says evolution is a &amp;ldquo;fact&amp;rdquo;?  It means that like the apple example and the Newton and Eisnten Theory gravity is there but what is not clear is how to explain it and is perverse to deny it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biography on Girasoles Laureados</title>
-    <link>http://example.org/tags/biography/</link>
+    <link>/tags/biography/</link>
     <description>Recent content in biography on Girasoles Laureados</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-lat</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/biography/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/biography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francisco Cajiao</title>
-      <link>http://example.org/posts/investigacion/francisco-cajiao/</link>
+      <link>/posts/investigacion/francisco-cajiao/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/investigacion/francisco-cajiao/</guid>
+      <guid>/posts/investigacion/francisco-cajiao/</guid>
       <description>Francisco Cajiao - Licenciado de filosofia de la universidad Javeriana
 Su primera experiencia educativa en su carrera fue dictar clases de catecismo como parte de su formacion para llegar a ser santo a eso de 1965.
 Su vida escolar no evocaba buenos recuerdos por lo que sus aspiraciones nunca fueron adentrarse en la educacion principalmente porque no se sentia comodo

@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Girasoles Laureados</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Girasoles Laureados</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-lat</language>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>comida</title>
-      <link>http://example.org/tags/comida/</link>
+      <link>/tags/comida/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/comida/</guid>
+      <guid>/tags/comida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolution</title>
-      <link>http://example.org/tags/evolution/</link>
+      <link>/tags/evolution/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/evolution/</guid>
+      <guid>/tags/evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vidacotidiana</title>
-      <link>http://example.org/tags/vidacotidiana/</link>
+      <link>/tags/vidacotidiana/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/vidacotidiana/</guid>
+      <guid>/tags/vidacotidiana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>http://example.org/tags/education/</link>
+      <link>/tags/education/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/education/</guid>
+      <guid>/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>investigacion</title>
-      <link>http://example.org/tags/investigacion/</link>
+      <link>/tags/investigacion/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/investigacion/</guid>
+      <guid>/tags/investigacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biography</title>
-      <link>http://example.org/tags/biography/</link>
+      <link>/tags/biography/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/biography/</guid>
+      <guid>/tags/biography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>materia</title>
-      <link>http://example.org/tags/materia/</link>
+      <link>/tags/materia/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/materia/</guid>
+      <guid>/tags/materia/</guid>
       <description></description>
     </item>
     

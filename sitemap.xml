@@ -3,87 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/comida/</loc>
+    <loc>/tags/comida/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/evolution/</loc>
+    <loc>/tags/evolution/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/vidacotidiana/historia-social-de-la-comida/</loc>
+    <loc>/posts/vidacotidiana/historia-social-de-la-comida/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/vidacotidiana/</loc>
+    <loc>/tags/vidacotidiana/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/education/</loc>
+    <loc>/tags/education/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/investigacion/education-without-theory/</loc>
+    <loc>/posts/investigacion/education-without-theory/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/investigacion/</loc>
+    <loc>/tags/investigacion/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/biography/</loc>
+    <loc>/tags/biography/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/vidacotidiana/evolution-lectures/</loc>
+    <loc>/posts/vidacotidiana/evolution-lectures/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/investigacion/francisco-cajiao/</loc>
+    <loc>/posts/investigacion/francisco-cajiao/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/investigacion/</loc>
+    <loc>/posts/investigacion/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/materia/</loc>
+    <loc>/tags/materia/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/vidacotidiana/</loc>
+    <loc>/posts/vidacotidiana/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

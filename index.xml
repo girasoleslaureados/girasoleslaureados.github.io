@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on Girasoles Laureados</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content in Inicio on Girasoles Laureados</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-lat</language>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Una historia social de la comida</title>
-      <link>http://example.org/posts/vidacotidiana/historia-social-de-la-comida/</link>
+      <link>/posts/vidacotidiana/historia-social-de-la-comida/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/vidacotidiana/historia-social-de-la-comida/</guid>
+      <guid>/posts/vidacotidiana/historia-social-de-la-comida/</guid>
       <description>Capitulo 1. La alimentación en el proceso mismo de hacernos humanos   Alcanzamos un 98.5% de semenjanza geética con los monos dejando solo un 1.5% de variación con respecto a un ancestro común y solo eso basta para generar enormes efectos
   El antropomorfo fue el ultimo ancestro comun
   La separacion genetica se denomina divergencia
@@ -21,10 +21,10 @@
     
     <item>
       <title>Education without theory</title>
-      <link>http://example.org/posts/investigacion/education-without-theory/</link>
+      <link>/posts/investigacion/education-without-theory/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/investigacion/education-without-theory/</guid>
+      <guid>/posts/investigacion/education-without-theory/</guid>
       <description>The debate that has absorved great deal of intellectual energy is about what is educational theory, what is it for and what it tries to achieve.
 Up to the end of the 19th century educational did not exist despite the canonical texts as Plato&amp;rsquo;s Republic and Rousseau&amp;rsquo;s Emile.
 Social progress depended on making our practices and institutions less dependent on custom, habit, dogma and tradition and more firmly based on knowledge that met universal standars of objetivity, this knowledge is called theory.</description>
@@ -32,10 +32,10 @@ Social progress depended on making our practices and institutions less dependent
     
     <item>
       <title>Evolution lectures</title>
-      <link>http://example.org/posts/vidacotidiana/evolution-lectures/</link>
+      <link>/posts/vidacotidiana/evolution-lectures/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/vidacotidiana/evolution-lectures/</guid>
+      <guid>/posts/vidacotidiana/evolution-lectures/</guid>
       <description>11. Evolution as Fact and Theory   What is the popular definition of theory? In the american vernacular theoyr is an &amp;ldquo;imperfect fact&amp;rdquo;  What is the scientific definition?
 Theory is a structure of ideas that explain and interpret facts. Facts do not go away while scientist debate rival theories for explainning them. (Eisntein and Newton example)
 What does Gould mean when he says evolution is a &amp;ldquo;fact&amp;rdquo;?  It means that like the apple example and the Newton and Eisnten Theory gravity is there but what is not clear is how to explain it and is perverse to deny it.</description>
@@ -43,10 +43,10 @@ What does Gould mean when he says evolution is a &amp;ldquo;fact&amp;rdquo;?  It
     
     <item>
       <title>Francisco Cajiao</title>
-      <link>http://example.org/posts/investigacion/francisco-cajiao/</link>
+      <link>/posts/investigacion/francisco-cajiao/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/investigacion/francisco-cajiao/</guid>
+      <guid>/posts/investigacion/francisco-cajiao/</guid>
       <description>Francisco Cajiao - Licenciado de filosofia de la universidad Javeriana
 Su primera experiencia educativa en su carrera fue dictar clases de catecismo como parte de su formacion para llegar a ser santo a eso de 1965.
 Su vida escolar no evocaba buenos recuerdos por lo que sus aspiraciones nunca fueron adentrarse en la educacion principalmente porque no se sentia comodo

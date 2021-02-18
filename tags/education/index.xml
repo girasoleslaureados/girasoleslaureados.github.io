@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>education on Girasoles Laureados</title>
-    <link>http://example.org/tags/education/</link>
+    <link>/tags/education/</link>
     <description>Recent content in education on Girasoles Laureados</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-lat</language>
-    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education without theory</title>
-      <link>http://example.org/posts/investigacion/education-without-theory/</link>
+      <link>/posts/investigacion/education-without-theory/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/investigacion/education-without-theory/</guid>
+      <guid>/posts/investigacion/education-without-theory/</guid>
       <description>The debate that has absorved great deal of intellectual energy is about what is educational theory, what is it for and what it tries to achieve.
 Up to the end of the 19th century educational did not exist despite the canonical texts as Plato&amp;rsquo;s Republic and Rousseau&amp;rsquo;s Emile.
 Social progress depended on making our practices and institutions less dependent on custom, habit, dogma and tradition and more firmly based on knowledge that met universal standars of objetivity, this knowledge is called theory.</description>
